@@ -11,25 +11,27 @@
 <hr> 
 <h3 style="color:green">🛠 &nbsp;Tech Stack</h3> 
 
-<!-- skillsStart -->
 
-![JS](https://img.shields.io/badge/JavaScript-red?logo=JavaScript&style=for-the-badge)&nbsp;
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/NodeJs-black?&style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-red?&style=for-the-badge&logo=MongoDB&logoColor=green)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-grey?&style=for-the-badge&logo=ExpressJs&logoColor=white)&nbsp;
-![Socket.io](https://img.shields.io/badge/Socket.io-grey?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
-![Puppeteer](https://img.shields.io/badge/puppeteer-grey?&style=for-the-badge&logo=puppeteer&logoColor=white)&nbsp;
-![typescript](https://img.shields.io/badge/typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/angular-grey?&style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![react](https://img.shields.io/badge/react-grey?&style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/Nest-grey?&style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
-![electron](https://img.shields.io/badge/electron-grey?&style=for-the-badge&logo=electron&logoColor=white)&nbsp;
-![fiebase](https://img.shields.io/badge/firebase-grey?&style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
+ <!-- skillsStart --> 
+![JS](https://img.shields.io/badge/JS-red?logo=JS&style=for-the-badge)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-red?logo=HTML&style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-red?logo=CSS&style=for-the-badge)&nbsp;
+![Git](https://img.shields.io/badge/Git-red?logo=Git&style=for-the-badge)&nbsp;
+![Node](https://img.shields.io/badge/Node-red?logo=Node&style=for-the-badge)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-red?logo=MongoDB&style=for-the-badge)&nbsp;
+![Express](https://img.shields.io/badge/Express-red?logo=Express&style=for-the-badge)&nbsp;
+![Socket](https://img.shields.io/badge/Socket-red?logo=Socket&style=for-the-badge)&nbsp;
+![Puppeteer](https://img.shields.io/badge/Puppeteer-red?logo=Puppeteer&style=for-the-badge)&nbsp;
+![typescript](https://img.shields.io/badge/typescript-red?logo=typescript&style=for-the-badge)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-red?logo=Angular&style=for-the-badge)&nbsp;
+![react](https://img.shields.io/badge/react-red?logo=react&style=for-the-badge)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-red?logo=NestJS&style=for-the-badge)&nbsp;
+![electron](https://img.shields.io/badge/electron-red?logo=electron&style=for-the-badge)&nbsp;
+![fiebase](https://img.shields.io/badge/fiebase-red?logo=fiebase&style=for-the-badge)&nbsp;
+![CPP](https://img.shields.io/badge/CPP-red?logo=CPP&style=for-the-badge)&nbsp;
 
-<!-- skillsEnd -->
+ <!-- skillsEnd --> 
+
 <p ><a href="https://adarsh-sgh.github.io"> <img src="https://github-profile-trophy.vercel.app/?username=adarsh-sgh&theme=monokai" alt="adarsh-sgh" /></a></p>  
 <hr> 
 

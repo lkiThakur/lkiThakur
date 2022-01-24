@@ -31,6 +31,7 @@
 ![fiebase](https://img.shields.io/badge/fiebase-red?logo=fiebase&style=for-the-badge)&nbsp;
 ![CPP](https://img.shields.io/badge/CPP-red?logo=CPP&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-red?logo=Python&style=for-the-badge)&nbsp;
+![redux](https://img.shields.io/badge/redux-red?logo=redux&style=for-the-badge)&nbsp;
 
  <!-- skillsEnd --> 
  

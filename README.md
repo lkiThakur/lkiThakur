@@ -33,7 +33,6 @@
 ![CPP](https://img.shields.io/badge/CPP-red?logo=CPP&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-red?logo=Python&style=for-the-badge)&nbsp;
 ![redux](https://img.shields.io/badge/redux-red?logo=redux&style=for-the-badge)&nbsp;
-![procastination](https://img.shields.io/badge/procastination-red?logo=procastination&style=for-the-badge)&nbsp;
 
  <!-- skillsEnd --> 
  

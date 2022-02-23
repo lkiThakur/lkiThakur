@@ -13,6 +13,7 @@
 
 
  
+ 
  <!-- skillsStart --> 
 ![JS](https://img.shields.io/badge/JS-red?logo=JS&style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-red?logo=HTML&style=for-the-badge)&nbsp;
@@ -32,8 +33,10 @@
 ![CPP](https://img.shields.io/badge/CPP-red?logo=CPP&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-red?logo=Python&style=for-the-badge)&nbsp;
 ![redux](https://img.shields.io/badge/redux-red?logo=redux&style=for-the-badge)&nbsp;
+![procastination](https://img.shields.io/badge/procastination-red?logo=procastination&style=for-the-badge)&nbsp;
 
  <!-- skillsEnd --> 
+ 
  
 
 <p ><a href="https://adarsh-sgh.github.io"> <img src="https://github-profile-trophy.vercel.app/?username=adarsh-sgh&theme=monokai" alt="adarsh-sgh" /></a></p>  

@@ -33,7 +33,7 @@
 ![fiebase](https://img.shields.io/badge/fiebase-red?logo=fiebase&style=for-the-badge)&nbsp;
 ![CPP](https://img.shields.io/badge/CPP-red?logo=CPP&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-red?logo=Python&style=for-the-badge)&nbsp;
-![demo giving](https://img.shields.io/badge/demo giving-red?logo=demo giving&style=for-the-badge)&nbsp;
+![golang](https://img.shields.io/badge/golang-red?logo=golang&style=for-the-badge)&nbsp;
 
  <!-- skillsEnd --> 
  
